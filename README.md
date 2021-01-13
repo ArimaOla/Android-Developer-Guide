@@ -4,8 +4,8 @@
 
 ### Оглавление
 
-+ Java ![icon][done]
-+ [ООП](#ООП) ![icon][done]
++ Java :white_large_square:
++ [ООП](#ООП) :white_large_square:
 
 
 ## ООП
