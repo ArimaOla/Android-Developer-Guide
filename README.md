@@ -7,7 +7,7 @@
 - :red_circle: [Java](#Java) 
 - :red_circle:  [ООП](#ООП) 
 - :red_circle:  [Kotlin](#Kotlin)
-- :large_blue_circle: [Git & GitHub](#Git & GitHub)
+- :large_blue_circle: [Git & GitHub](#Git-&-GitHub)
 
 - :large_blue_circle: 
 - :white_circle:
