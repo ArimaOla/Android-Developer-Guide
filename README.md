@@ -4,10 +4,10 @@
 
 ## Оглавление
 
-- :white_check_mark: Java 
-- :white_check_mark: [ООП](#ООП) 
-- :white_large_square: 
-- :black_square_button:
+- :red_circle: Java 
+- :red_circle:  [ООП](#ООП) 
+- :large_blue_circle:
+- :white_circle:
 
 ------------------------
 
@@ -16,7 +16,7 @@
 
 + [Что такое _ООП_?](OOP.md#Что-такое-ООП)
 
-
+-----------------------------------------------
  #####  ***Условные обозначения:***
 
 - :red_circle: - Знать обязательно.
