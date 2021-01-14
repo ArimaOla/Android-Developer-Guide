@@ -5,7 +5,8 @@
 ## Оглавление
 
 - :red_circle: [Java](#Java) 
-- :red_circle:  [ООП](#ООП) 
+- :red_circle:  [ООП](#ООП)
+- :red_circle:  [Android SDK](#Android SDK)
 - :red_circle:  [Kotlin](#Kotlin)
 - :large_blue_circle: [Git & GitHub](#git-&-github)
 
@@ -31,12 +32,13 @@
 ### Kotlin
 
 
-
 -----------------------------------------------
 
 ### Git & GitHub
 
+-----------------------------------------------
 
+### Android SDK
 
 -----------------------------------------------
  #####  ***Условные обозначения:***
