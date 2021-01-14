@@ -52,6 +52,14 @@
 ### Android SDK
 
 1. Подготовка рабочего окружения
+    1. Скачать и установить Android Studio [Скачать с официального сайта](https://developer.android.com/studio) :white_check_mark:
+       <details>
+       <summary>Подробнее ...</summary>
+        JDK скачивать не надо. Он идет в комплекте. А вот Git пригодится.
+       </details>
+
+    2. Скачать и установить Git [Скачать с официального сайта](https://git-scm.com/downloads) :white_check_mark:
+    3. Зарегистрироваться (например на GitHub) - [X]
 
 -----------------------------------------------
  #####  ***Условные обозначения:***
@@ -60,5 +68,5 @@
 - :large_blue_circle:- Знать желательно 
 - :white_circle: - Знать не обязательно 
 
-- :black_square_button: - Не изучено
-- :white_check_mark: - Изучено
+- :black_square_button: - Не готово
+- :white_check_mark: - Готово
