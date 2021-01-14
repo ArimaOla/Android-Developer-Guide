@@ -8,8 +8,8 @@
 - :red_circle:  [ООП](#ООП)
 - :red_circle:  [Android SDK](#Android-SDK)
 - :red_circle:  [Kotlin](#Kotlin)
-- :large_blue_circle: [Git](https://git-scm.com/book/ru/v2)
-- :large_blue_circle: [GitHub](https://docs.github.com/en)
+- :large_blue_circle: Git. [Официальное руководство](https://git-scm.com/book/ru/v2)
+- :large_blue_circle: GitHub [Официальное руководство](https://docs.github.com/en)
 
 - :large_blue_circle: 
 - :white_circle:
