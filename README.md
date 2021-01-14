@@ -1,13 +1,13 @@
 # Android Developer Guide - road-map
 
-Справочник по тому, что надо знать андроид разработчику. 
+Справочник по тому, что надо знать андроид разработчику ссылки в перечне на официальные источники + самые понравившиеся.
 
-## Оглавление
+## Содержание
 
-- :red_circle: Java [Официальная документация](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html) 
-- :red_circle: [ООП](#ООП)
-- :red_circle: [Android SDK](#Android-SDK)
-- :red_circle: [Kotlin](#Kotlin)
+- :red_circle: Java [Официальная документация](https://docs.oracle.com/javase/tutorial/java/) 
+- :red_circle: ООП [Официальная документация](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+- :red_circle: Android SDK [Официальная документация](https://developer.android.com/studio)
+- :red_circle: Kotlin [Официальная документация](https://kotlinlang.org/docs/reference/)
 - :large_blue_circle: Git [Официальное руководство](https://git-scm.com/book/ru/v2)
 - :large_blue_circle: GitHub [Официальное руководство](https://docs.github.com/en)
 
@@ -18,7 +18,17 @@
 
 ### Java
 
-+ [Базовые синтаксические конструкции](Java.md#Базовые-синтаксические-конструкторы-и-операторы-в-Java)
+1. Базовые синтаксические конструкции и операторы в Java
+    1. Типы данных:
+        1. [Примитивные](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+        2. Ссылочные  
+    2. Преобразование типов
+    3. Битовые операторы, битовые маски
+    4. Логические и математические операторы
+    5. Приоритеты
+    6. Управление логикой работы приложения 
+    7. Циклы 
+    8. Структура консольного Java приложения
 
 
 -----------------------------------------------
@@ -40,6 +50,8 @@
 -----------------------------------------------
 
 ### Android SDK
+
+1. Подготовка рабочего окружения
 
 -----------------------------------------------
  #####  ***Условные обозначения:***
