@@ -10,21 +10,23 @@
     :white_check_mark: - Готово    
 </details>
 
+-----------------------------------------------
+
 ## Содержание
 
 - :red_circle: [Java](#Java)
 - :red_circle: [ООП](#ООП) 
 - :red_circle: [Android SDK](#Android-SDK) 
 - :red_circle: [Kotlin](#Kotlin) 
-- :large_blue_circle: [Git](#Git-&-GitHub) 
-- :large_blue_circle: [GitHub](#Git)  
+- :large_blue_circle: [Git](#Git) 
+- :large_blue_circle: [GitHub](#GitHub)  
 
 - :large_blue_circle: 
 - :white_circle:
 
 -----------------------------------------------
 
-### Java
+## Java
 - [Официальная документация](https://docs.oracle.com/javase/tutorial/java/)
 - Подготовить среду разработки. [Скачать](https://www.eclipse.org/downloads/) и установить Eclipse.    
   Или можно использовать [онлайн компилятор](https://ideone.com/).
@@ -45,28 +47,44 @@
             - Области видимости
             - Передача по ссылке 
 
+[:arrow_up: Содержание](#Содержание)
 
 -----------------------------------------------
 
-### ООП
+## ООП
 - [Официальная документация](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 + [Что такое _ООП_?](OOP.md#Что-такое-ООП)
 
 
+[:arrow_up: Содержание](#Содержание)
+
 -----------------------------------------------
 
-### Kotlin
+## Kotlin
 
 -[Официальная документация](https://kotlinlang.org/docs/reference/)
 
+
+[:arrow_up: Содержание](#Содержание)
+
 -----------------------------------------------
 
-### Git & GitHub
+## Git 
+
 - Git [Официальное руководство](https://git-scm.com/book/ru/v2)
+
+[:arrow_up: Содержание](#Содержание)
+
+-----------------------------------------------
+## GitHub
+
 - GitHub [Официальное руководство](https://docs.github.com/en)
+
+[:arrow_up: Содержание](#Содержание)
+
 -----------------------------------------------
 
-### Android SDK
+## Android SDK
 - [Официальная документация](https://developer.android.com/studio)
 1. Подготовка рабочего окружения
     1. Скачать и установить Android Studio [Скачать с официального сайта](https://developer.android.com/studio) :white_check_mark:
@@ -77,6 +95,9 @@
 
     2. Скачать и установить Git [Скачать с официального сайта](https://git-scm.com/downloads) :white_check_mark:
     3. Зарегистрироваться (например на GitHub) :white_check_mark:
+
+
+[:arrow_up: Содержание](#Содержание)
 
 -----------------------------------------------
 
