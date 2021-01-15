@@ -16,7 +16,7 @@
 - :red_circle: [ООП](#ООП) 
 - :red_circle: [Android SDK](#Android-SDK) 
 - :red_circle: [Kotlin](#Kotlin) 
-- :large_blue_circle: [Git](#Git) 
+- :large_blue_circle: [Git](#Git-&-GitHub) 
 - :large_blue_circle: [GitHub](#Git)  
 
 - :large_blue_circle: 
