@@ -3,12 +3,11 @@
 Справочник по тому, что надо знать андроид разработчику ссылки в перечне на официальные источники + самые понравившиеся.
 <details>
 <summary>Условные обозначения ...</summary>
-- :red_circle: - Знать обязательно.
-- :large_blue_circle:- Знать желательно 
-- :white_circle: - Знать не обязательно 
-
-- :black_square_button: - Не готово
-- :white_check_mark: - Готово
+    :red_circle: - Знать обязательно    
+    :large_blue_circle:- Знать желательно    
+    :white_circle: - Знать не обязательно    
+    :black_square_button: - Не готово    
+    :white_check_mark: - Готово    
 </details>
 
 ## Содержание
