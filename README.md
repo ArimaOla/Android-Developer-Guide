@@ -66,7 +66,7 @@
 ## Kotlin
 
 - [Официальная документация Kotlin](https://kotlinlang.org/docs/reference/)
-- [Онлайн компилятор для Kotlin](https://developer.android.com/training/kotlinplayground)
+- [ПРАКТИКА по Kotlin](#https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Kotlin%20упражнения.md)
 
 [:arrow_up: Содержание](#Содержание)
 
