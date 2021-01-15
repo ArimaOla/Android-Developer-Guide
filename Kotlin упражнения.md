@@ -18,8 +18,7 @@
 ## Урок 1 
 
 ### Кубики. Случайное число. 
-
-
+- Полностью упражнение [ЗДЕСЬ](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-in-kotlin#0)
 
 ```kotlin
 
