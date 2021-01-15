@@ -4,7 +4,7 @@
 
 ## Содержание
 
-- :red_circle: Java [Официальная документация](https://docs.oracle.com/javase/tutorial/java/) 
+- :red_circle: [Java](#Java)
 - :red_circle: ООП [Официальная документация](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 - :red_circle: Android SDK [Официальная документация](https://developer.android.com/studio)
 - :red_circle: Kotlin [Официальная документация](https://kotlinlang.org/docs/reference/)
@@ -17,6 +17,7 @@
 -----------------------------------------------
 
 ### Java
+- [Официальная документация](https://docs.oracle.com/javase/tutorial/java/)
 - Подготовить среду разработки. [Скачать](https://www.eclipse.org/downloads/) и установить Eclipse.    
   Или можно использовать [онлайн компилятор](https://ideone.com/).
   
