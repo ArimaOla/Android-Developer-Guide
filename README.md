@@ -5,11 +5,11 @@
 ## Содержание
 
 - :red_circle: [Java](#Java)
-- :red_circle: ООП [Официальная документация](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-- :red_circle: Android SDK [Официальная документация](https://developer.android.com/studio)
-- :red_circle: Kotlin [Официальная документация](https://kotlinlang.org/docs/reference/)
-- :large_blue_circle: Git [Официальное руководство](https://git-scm.com/book/ru/v2)
-- :large_blue_circle: GitHub [Официальное руководство](https://docs.github.com/en)
+- :red_circle: [ООП](#ООП) 
+- :red_circle: [Android SDK](#Android-SDK) 
+- :red_circle: [Kotlin](#Kotlin) 
+- :large_blue_circle: [Git](#Git) 
+- :large_blue_circle: [GitHub](#Git)  
 
 - :large_blue_circle: 
 - :white_circle:
@@ -41,7 +41,7 @@
 -----------------------------------------------
 
 ### ООП
-
+- [Официальная документация](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 + [Что такое _ООП_?](OOP.md#Что-такое-ООП)
 
 
@@ -49,15 +49,17 @@
 
 ### Kotlin
 
+-[Официальная документация](https://kotlinlang.org/docs/reference/)
 
 -----------------------------------------------
 
 ### Git & GitHub
-
+- Git [Официальное руководство](https://git-scm.com/book/ru/v2)
+- GitHub [Официальное руководство](https://docs.github.com/en)
 -----------------------------------------------
 
 ### Android SDK
-
+- [Официальная документация](https://developer.android.com/studio)
 1. Подготовка рабочего окружения
     1. Скачать и установить Android Studio [Скачать с официального сайта](https://developer.android.com/studio) :white_check_mark:
        <details>
