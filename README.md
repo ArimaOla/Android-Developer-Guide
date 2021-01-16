@@ -16,16 +16,53 @@
 -----------------------------------------------
 
 ## Содержание
+:red_circle:1. Programming Language
+    - :red_circle: [Java](#Java)
+        - :red_circle: [ООП](#ООП) 
+    - :red_circle: [Kotlin](#Kotlin) 
+       
+:red_circle:2. Android Studio 
+    - Debugger
+    - CPU Profiler
+    - [Android SDK](#Android-SDK) 
+        - Android Debug Bridge
+        - Emulator
+        - SDK Manager
+    - File formats 
+        - XML
+:red_circle:3. App Manifest
+    - Data Backup
+    - Permissions
+    - App Components
+:red_circle:4. App Components
+:red_circle:5. User Interface
+:red_circle:6. More User Interface
+:red_circle:7. Accessibility
+:red_circle:8. Storage
+:red_circle:9. Architecture
+:red_circle:10. Build Configuration
+:red_circle:11. Thread Handling
+:red_circle:12. Network Handling
+:red_circle:13. Android Jetpack
+:red_circle:14. Architecture components
+:red_circle:15. Google Libraries
+:red_circle:16. Security
+:red_circle:17. Sensors
+:red_circle:18. Content Providers
+:red_circle:19. Animation
+:red_circle:20. App Publishing
 
-- :red_circle: [Java](#Java)
-- :red_circle: [ООП](#ООП) 
-- :red_circle: [Android SDK](#Android-SDK) 
-- :red_circle: [Kotlin](#Kotlin) 
-- :large_blue_circle: [Git](#Git) 
-- :large_blue_circle: [GitHub](#GitHub)  
+Keep learning...
 
-- :large_blue_circle: 
-- :white_circle:
+:large_blue_circle: Hubrid
+:large_blue_circle:
+
+
+    
+    
+    
+    - :large_blue_circle: [Git](#Git) 
+    - :large_blue_circle: [GitHub](#GitHub)  
 
 -----------------------------------------------
 
