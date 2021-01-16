@@ -17,9 +17,9 @@
 
 ## Содержание
 :red_circle:1. Programming Language    
-    - :red_circle: [Java](#Java)    
-        - :red_circle: [ООП](#ООП)    
-    - :red_circle: [Kotlin](#Kotlin)    
+    - [Java](#Java)    
+        - [ООП](#ООП)    
+    - [Kotlin](#Kotlin)    
        
 :red_circle:2. Android Studio    
     - Debugger    
