@@ -57,12 +57,8 @@ Keep learning...
 :large_blue_circle: Hubrid    
 :large_blue_circle:    
 
-
-    
-    
-    
-    - :large_blue_circle: [Git](#Git) 
-    - :large_blue_circle: [GitHub](#GitHub)  
+- :large_blue_circle: [Git](#Git) 
+- :large_blue_circle: [GitHub](#GitHub)  
 
 -----------------------------------------------
 
