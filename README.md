@@ -17,11 +17,15 @@
 
 ## Содержание
 :red_circle:1. Programming Language    
-    - [Java](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Java%20guide.md)    
+    - [Java](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Java%20guide.md) 
+    <details>
+<summary>Содержание ...</summary>
+Ваш текст
+</details>
         - [ООП](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/OOP%20Guide.md)    
     - [Kotlin](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Kotlin%20Guide.md)    
        
-:red_circle:2. [Android Studio](https://github.com/OlgaKirshbaum/Android-Developer-Guide/new/main)   
+:red_circle:2. [Android Studio](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Android%20SDK%20Guide.md)   
     - Debugger    
     - CPU Profiler    
     - Android SDK   
@@ -57,8 +61,8 @@ Keep learning...
 :large_blue_circle: Hubrid    
 :large_blue_circle:    
 
-:large_blue_circle: [Git](https://github.com/OlgaKirshbaum/Android-Developer-Guide/new/main) 
-:large_blue_circle: [GitHub](https://github.com/OlgaKirshbaum/Android-Developer-Guide/new/main)  
+:large_blue_circle: [Git](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Git%20guide.md) 
+:large_blue_circle: [GitHub](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/GitHub%20guide.md)  
 
 
 
