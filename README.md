@@ -17,8 +17,7 @@
 
 ## Содержание
 :red_circle:1. Programming Language    
-    - [Java](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Java%20guide.md) 
-    <details>
+    - [Java](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Java%20guide.md) <details>
 <summary>Содержание ...</summary>
 Ваш текст
 </details>
