@@ -37,5 +37,17 @@
         - String
         - StringBuilder
         - перегрузка методов
-        - java.util.Arrays
+        - java.util.Arrays    
+        
+- Устройство платформы Java
+
+    - История Java
+    - Кроссплатформенность
+    - JVM
+        - Interpreter
+        - JIT
+        - Byte code verifier
+        - Gardage collector (GC)
+    - JRE, JDK, Interpreter, JIT
+    - Vm start parametrs 
     
