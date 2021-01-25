@@ -51,3 +51,14 @@
     - JRE, JDK, Interpreter, JIT
     - Vm start parametrs 
     
+- Отладка и сборка мусора 
+    - Логирование
+    - Отладка 
+    - Remote debug
+    - jconsole
+    - JMX, MBeans
+    - Сборка мусора
+    - Виды GC, алгоритмы GC
+    - GC roots
+    - Типы ссылок
+    
