@@ -83,5 +83,13 @@
         - Хэш-структуры
         
 - Исключения
+
+- Java INPUT/OUTPUT
+    - Класс File
+    - RandomAccessFile
+    - InputStream / OutputStream
+    - Обработка исключений
+    - Символьные потоки Reader / Wtiter
+    - PrintStream
     
     
