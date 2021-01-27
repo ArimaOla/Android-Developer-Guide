@@ -5,10 +5,10 @@
 ------------
 ### Основные команды
 
-'$ git init'
-'$ git add'
-'$ git commit -m"First commit"'
+`$ git init`
+`$ git add`
+`$ git commit -m"First commit"`
 
-'$ git remote add origin remote repository URL'
-'$ git remote -v'
-'$ git push origin master' 
+`$ git remote add origin remote repository URL`
+`$ git remote -v`
+`$ git push origin master`  
