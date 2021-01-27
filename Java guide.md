@@ -1,6 +1,7 @@
 # Java guide
 ## Java
 - [Официальная документация](https://docs.oracle.com/javase/tutorial/java/)
+- [ООП](https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/OOP%20Guide.md)
 - Подготовить среду разработки. [Скачать](https://www.eclipse.org/downloads/) и установить Eclipse.    
   Или можно использовать [онлайн компилятор](https://ideone.com/).
   
