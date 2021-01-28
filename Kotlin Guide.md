@@ -6,8 +6,6 @@
 - [Упражнения Kotlin](#)
 - [Полезные источники](#Полезные-источники)
 
-
-
 ---------------------------------------------------------------------------------------------------------------------
 
 # Упражнения Kotlin 
@@ -20,16 +18,11 @@
 
 ## Список уроков
 
-- [Урок 1](#Урок-1)
+- [Урок 1](#Урок-1) - Кубики. Случайное число. 
 - [Урок 2](#Урок-2)
 
-- ПРАКТИЧЕСКИЕ КУРСЫ ПО КОТЛИН (ОФИЦИАЛЬНЫЕ):
-     - [ИГРОВАЯ ПЛОЩАДКА от Kotlin](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS40LjIwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsImpzQ29kZSI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS4gXG4gKiBwbGF5LmtvdGxpbmxhbmcub3JnIFxuICovXG5cbmZ1biBtYWluKCkge1xuICAgIHByaW50bG4oXCJIZWxsbywgd29ybGQhISFcIilcbn0ifQ==)
-     - Котлин [Практические Занятия](https://play.kotlinlang.org/hands-on/overview) 
-     - [Котлинские Коаны](https://play.kotlinlang.org/koans/overview) 
-     - [Онлайн компилятор для Kotlin от Android](https://developer.android.com/training/kotlinplayground)
 
-
+[:arrow_up: Содержание](#Содержание) 
 
 ----------------------------------------------------------------------------
 
@@ -56,8 +49,8 @@ class Dice (val numSides: Int) {
     }
 }
 ```
-
-[Содержание](#Содержание)
+[:arrow_up: Список уроков](#Список-уроков) 
+[:arrow_up: Содержание](#Содержание) 
 
 ----------------------------------------------------------------------------
 
@@ -67,11 +60,12 @@ class Dice (val numSides: Int) {
 
 
 
-
-[Содержание](#Содержание)
+[:arrow_up: Список уроков](#Список-уроков) 
+[:arrow_up: Содержание](#Содержание) 
 
 ----------------------------------------------------------------------------
 
+## Урок 3
 
 
 
@@ -79,6 +73,7 @@ class Dice (val numSides: Int) {
 
 [:arrow_up: Список уроков](#Список-уроков)    
 [:arrow_up: Содержание](#Содержание) 
+
 ---------------------------------------------------------------------------------------------------------------------
 
 # ПОЛЕЗНЫЕ ИСТОЧНИКИ
@@ -87,5 +82,10 @@ class Dice (val numSides: Int) {
 - [ПРАКТИКА по Kotlin](#https://github.com/OlgaKirshbaum/Android-Developer-Guide/blob/main/Kotlin%20упражнения.md)
 - [Руководство по стилю Котлина](https://developer.android.com/kotlin/style-guide)
 - [онлайн площадку для тренировки](https://developer.android.com/training/kotlinplayground)
+- ПРАКТИЧЕСКИЕ КУРСЫ ПО КОТЛИН (ОФИЦИАЛЬНЫЕ):
+     - [ИГРОВАЯ ПЛОЩАДКА от Kotlin](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS40LjIwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsImpzQ29kZSI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS4gXG4gKiBwbGF5LmtvdGxpbmxhbmcub3JnIFxuICovXG5cbmZ1biBtYWluKCkge1xuICAgIHByaW50bG4oXCJIZWxsbywgd29ybGQhISFcIilcbn0ifQ==)
+     - Котлин [Практические Занятия](https://play.kotlinlang.org/hands-on/overview) 
+     - [Котлинские Коаны](https://play.kotlinlang.org/koans/overview) 
+     - [Онлайн компилятор для Kotlin от Android](https://developer.android.com/training/kotlinplayground)
 
 [:arrow_up: Содержание](#Содержание) 
